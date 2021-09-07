@@ -1,12 +1,12 @@
   
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
-    apiKey: 'AIzaSyBDsdN3XWM5D2-c_ti5j44GrhMnBHNmSF0',
-    authDomain: 'react-native-market-2861b.firebaseapp.com',
-    databaseURL: 'https://react-native-market-2861b.firebaseio.com',
-    projectId: 'react-native-market-2861b',
-    storageBucket: 'react-native-market-2861b.appspot.com',
+    apiKey: 'AIzaSyB1UGXyPVHA3ZiMT97eeoQ2rb7gHsxntSU',
+    authDomain: 'ecommece-b6f1a.firebaseapp.com',
+    databaseURL: 'https://ecommece-b6f1a.firebaseio.com',
+    projectId: 'ecommece-b6f1a',
+    storageBucket: 'ecommece-b6f1a.appspot.com',
     messagingSenderId: '878215484396',
-    appId: '1:878215484396:web:c36074bccb0b5693b0a6c9',
+    appId: '1:1011037978895:android:f621a99e0c12b90f13fe7a',
     measurementId: 'G-317PLP59P2',
   }
