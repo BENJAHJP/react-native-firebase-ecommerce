@@ -7,7 +7,7 @@ import Button from '../components/Button'
 export default function StartScreen({ navigation }) {
   return (
     <Background>
-      <Logo />
+      
       <Header>Login or Sign Up</Header>
       <Button
         mode="contained"
